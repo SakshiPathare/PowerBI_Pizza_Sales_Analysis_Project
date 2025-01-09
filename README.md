@@ -1,8 +1,7 @@
 # PowerBI Pizza Sales Analysis Project
 
 ## Overview:
-- This project focuses on analyzing pizza sales data for the year 2015 to uncover trends, identify best and worst-selling pizzas, determine the busiest days and months, and evaluate   
-  sales performance by pizza category and size. The analysis was performed using SQL for data preparation and Power BI for creating interactive visualizations.
+- This project focuses on analyzing pizza sales data for the year 2015 to uncover trends, identify best and worst-selling pizzas, determine the busiest days and months, and evaluate sales performance by pizza category and size. The analysis was performed using SQL for data preparation and Power BI for creating interactive visualizations.
 
 ## Objective:
 - To uncover key sales trends and patterns, helping businesses make informed decisions and optimize operations.
